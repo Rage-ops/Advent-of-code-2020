@@ -3,8 +3,7 @@ def partOne(low, high, letter, password):
     for char in password:
         if char == letter:
             count += 1
-    if high >= count >= low:
-        return True
+    return high >= count >= low
 
 
 def partTwo(position1, position2, letter, password):
