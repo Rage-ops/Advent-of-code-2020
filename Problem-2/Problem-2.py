@@ -23,7 +23,3 @@ with open("Problem-2/Day-2-Password-Philosophy.txt") as file:
             out2 += 1
             
 print(out1, out2)
-
-# Part - 2
-        
-        
