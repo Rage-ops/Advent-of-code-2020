@@ -1,3 +1,5 @@
+// Advent of Code 2020 Day 2
+
 const partOne = (low, high, letter, password) =>{
     let count = 0;
     for(char of password){

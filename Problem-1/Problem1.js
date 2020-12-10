@@ -1,3 +1,5 @@
+// Advent of Code 2020 Day 1
+
 const fs = require('fs');
 const data = fs.readFileSync('./Problem-1.txt').toString().split('\n');
 const arr = data.map((val) => Number(val));
