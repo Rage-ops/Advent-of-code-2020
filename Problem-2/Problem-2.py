@@ -1,3 +1,5 @@
+# Advent of Code 2020 Day 2
+
 def partOne(low, high, letter, password):
     count = 0
     for char in password:

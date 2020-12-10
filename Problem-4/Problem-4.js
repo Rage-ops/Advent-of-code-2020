@@ -1,3 +1,5 @@
+// Advent of Code 2020 Day 4
+
 const fs = require('fs');
 const data = fs.readFileSync("Problem-4/Day 4: Passport Processing.txt").toString().split('\n\n');
 const required_keys =  ['byr', 'iyr', 'eyr', 'hgt', 'hcl', 'ecl', 'pid'];

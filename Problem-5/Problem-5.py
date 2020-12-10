@@ -1,3 +1,5 @@
+# Advent of Code 2020 Day 5
+
 def decode(text, low, high, head, tail):
     for i in range(len(text) - 1):
         mid = (low + high) // 2
