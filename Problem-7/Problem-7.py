@@ -20,10 +20,10 @@ with open("Problem-7/Day 7: Handy Haversacks.txt") as file:
 
 def part_one(adj, visited, bag_name):
     def dfs(adj, visited, start, count):
-        for edge in adj_reverse[start].keys():
+        for edge in adj[start].keys():
             if not visited[edge]:
                 visited[edge] = True
-                count = dfs(adj_reverse, visited, edge, count + 1)
+                count = dfs(adj, visited, edge, count + 1)
         return count
 
     adj_reverse = {}
