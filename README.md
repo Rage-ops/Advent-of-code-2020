@@ -6,3 +6,4 @@ Solutions for [Advent of code 2020](https://adventofcode.com/) in Python and Jav
 - [Day 4: Passport Processing](https://github.com/Rage-ops/Advent-of-code-2020/tree/master/Problem-4)
 - [Day 5: Binary Boarding](https://github.com/Rage-ops/Advent-of-code-2020/tree/master/Problem-5)
 - [Day 6: Custom Customs](https://github.com/Rage-ops/Advent-of-code-2020/tree/master/Problem-6)
+- [Day 7: Handy Haversacks](https://github.com/Rage-ops/Advent-of-code-2020/tree/master/Problem-7)
