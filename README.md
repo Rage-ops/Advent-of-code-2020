@@ -7,3 +7,4 @@ Solutions for [Advent of code 2020](https://adventofcode.com/) in Python and Jav
 - [Day 5: Binary Boarding](https://github.com/Rage-ops/Advent-of-code-2020/tree/master/Problem-5)
 - [Day 6: Custom Customs](https://github.com/Rage-ops/Advent-of-code-2020/tree/master/Problem-6)
 - [Day 7: Handy Haversacks](https://github.com/Rage-ops/Advent-of-code-2020/tree/master/Problem-7)
+- [Day 8: Handheld Halting](https://github.com/Rage-ops/Advent-of-code-2020/tree/master/Problem-8)
